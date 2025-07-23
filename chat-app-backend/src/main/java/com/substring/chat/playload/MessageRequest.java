@@ -11,6 +11,7 @@ import java.time.LocalDateTime;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
+
 public class MessageRequest {
 
     private String content;
