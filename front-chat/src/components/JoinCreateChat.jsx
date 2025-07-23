@@ -89,6 +89,7 @@ const JoinCreateChat = () => {
         <h1 className="text-2xl font-semibold text-center ">
           Join Room / Create Room ..
         </h1>
+        <h3 className="text-xl font-semibold text-center ">Have chit chat with friends..</h3>
         {/* name div */}
         <div className="">
           <label htmlFor="name" className="block font-medium mb-2">
